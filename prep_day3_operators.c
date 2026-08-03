@@ -18,3 +18,13 @@ int main() {
 
     return 0;
 }
+
+/*
+Execution Output:
+Arithmetic: a + b = 17, a - b = 7, a * b = 60, a / b = 2, a % b = 2
+Relational: a > b = 1, a == b = 0, a != b = 1
+Logical: (a > 10 && b < 10) = 1, (a < 5 || b > 2) = 1, !(a == b) = 1
+Bitwise: a & b = 4, a | b = 13, a ^ b = 9, ~a = -13, a << 1 = 24, a >> 1 = 6
+
+*/
+
