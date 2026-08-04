@@ -15,3 +15,14 @@ int main() {
     printf("Character: [%c], String: [%s]\n", grade, name);
     return 0;
 }
+
+/*
+Execution Output:
+Integer padding: [00042] or [42   ]
+Floating point precision: [3.14] or [3.1416]
+Scientific notation: [2.718282e+000]
+Hexadecimal: [2A] and Octal: [52]
+Character: [A], String: [Akarshak]
+
+*/
+
