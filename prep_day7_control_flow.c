@@ -18,3 +18,11 @@ int main() {
     printf("Grade assigned: %c\n", grade);
     return 0;
 }
+
+/*
+Execution Output:
+Result: PASS
+Grade assigned: A
+
+*/
+
