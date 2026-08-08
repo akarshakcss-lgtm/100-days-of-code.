@@ -25,3 +25,12 @@ int main() {
 
     return 0;
 }
+
+/*
+Execution Output:
+For Loop (1 to 5): 1 2 3 4 5 
+While Loop with continue: 1 2 4 5 6 
+Do-While Loop: 1 2 3 
+
+*/
+
