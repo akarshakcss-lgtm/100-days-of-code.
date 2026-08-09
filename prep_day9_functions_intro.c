@@ -24,3 +24,12 @@ void swapByReference(int *a, int *b) {
     *a = *b;
     *b = temp;
 }
+
+/*
+Execution Output:
+add(10, 20) = 30
+Before swap: x=10, y=20
+After swap:  x=20, y=10
+
+*/
+
