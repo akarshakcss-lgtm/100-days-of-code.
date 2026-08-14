@@ -20,3 +20,13 @@ int main() {
     printf("Reversed: %d\n", rev);
     return 0;
 }
+
+/*
+Execution Output:
+Number: 12345
+Total Digits: 5
+Sum of Digits: 15
+Reversed: 54321
+
+*/
+
