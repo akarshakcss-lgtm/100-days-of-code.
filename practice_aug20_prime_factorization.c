@@ -22,3 +22,11 @@ int main() {
     primeFactors(84);
     return 0;
 }
+
+/*
+Execution Output:
+Prime factors of 315: 3 3 5 7
+Prime factors of 84: 2 2 3 7
+
+*/
+
