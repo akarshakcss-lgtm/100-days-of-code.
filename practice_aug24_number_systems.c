@@ -19,3 +19,13 @@ int main() {
     printBinary(n);
     return 0;
 }
+
+/*
+Execution Output:
+Decimal:     42
+Octal:       52
+Hexadecimal: 2A
+32-bit Bin:  00000000000000000000000000101010
+
+*/
+
