@@ -20,3 +20,15 @@ int main() {
     }
     return 0;
 }
+
+/*
+Execution Output:
+Element Frequencies:
+2 appears 3 time(s)
+3 appears 2 time(s)
+5 appears 1 time(s)
+8 appears 2 time(s)
+1 appears 1 time(s)
+
+*/
+
