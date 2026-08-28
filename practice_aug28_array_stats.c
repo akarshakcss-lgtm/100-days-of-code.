@@ -20,3 +20,12 @@ int main() {
     printf("Standard Deviation: %.2f\n", stdDev);
     return 0;
 }
+
+/*
+Execution Output:
+Mean: 20.12
+Variance: 47.65
+Standard Deviation: 6.90
+
+*/
+
