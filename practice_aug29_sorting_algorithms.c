@@ -23,3 +23,10 @@ int main() {
     printf("\n");
     return 0;
 }
+
+/*
+Execution Output:
+Selection Sorted Array: 11 12 22 25 64 
+
+*/
+
