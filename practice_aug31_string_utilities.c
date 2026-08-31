@@ -30,3 +30,13 @@ int main() {
     printf("Compare with 'World': %d\n", my_strcmp(s1, "World"));
     return 0;
 }
+
+/*
+Execution Output:
+Length: 5
+Copied string: Hello
+Compare with 'Hello': 0
+Compare with 'World': -15
+
+*/
+

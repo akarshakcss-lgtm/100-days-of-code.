@@ -1,0 +1,4 @@
+﻿Length: 5
+Copied string: Hello
+Compare with 'Hello': 0
+Compare with 'World': -15
