@@ -27,3 +27,11 @@ int main() {
     printf("\"%s\" -> %s\n", test2, isPalindromeSentence(test2) ? "Palindrome" : "Not Palindrome");
     return 0;
 }
+
+/*
+Execution Output:
+"A man, a plan, a canal: Panama" -> Palindrome
+"race a car" -> Not Palindrome
+
+*/
+
