@@ -29,3 +29,13 @@ int main() {
     printf("Single unique number in [4, 1, 2, 1, 2]: %d\n", findSingleNumber(arr, 5));
     return 0;
 }
+
+/*
+Execution Output:
+Is 16 power of two? Yes
+Is 18 power of two? No
+Set bits in 29: 4
+Single unique number in [4, 1, 2, 1, 2]: 4
+
+*/
+
