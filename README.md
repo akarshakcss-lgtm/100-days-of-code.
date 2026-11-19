@@ -1,6 +1,6 @@
 # 100 Days of Code — C Programming 🚀
 
-Welcome to my **100 Days of Code** journey in C Programming! This repository contains my daily solutions, foundational preparation programs, advanced practice challenges, and code implementations following the curriculum and challenges hosted at [UPES Basic Coding with C](https://maitysoumik.github.io/basic-coding-with-c/).
+Welcome to my **100 Days of Code** journey in C Programming! This repository contains my daily solutions, foundational preparation programs, advanced practice challenges, and verified execution outputs following the curriculum and challenges hosted at [UPES Basic Coding with C](https://maitysoumik.github.io/basic-coding-with-c/).
 
 ---
 
@@ -12,7 +12,34 @@ Welcome to my **100 Days of Code** journey in C Programming! This repository con
   - **Core 100 Days Curriculum:** 150 Problems (Days 1 – 100)
   - **Foundational Preparation Modules:** 9 Programs (Aug 1 – 9)
   - **Algorithmic Practice & Benchmarks:** 12 Programs (Aug & Sept deep dives)
+- **Verified Outputs:** 100% of programs compiled and executed with verified output logs.
 - **Language:** C (Standard C99 / ANSI C)
+
+---
+
+## 📂 Arranged Directory Architecture
+
+The repository is structured in chronological, numerical order:
+
+```text
+├── 00_Preparation_Aug01_to_Aug09/    # Pre-challenge setup & C fundamentals (Days 1 to 9)
+│   ├── prep_day1_hello_world.c
+│   ├── prep_day1_hello_world_output.txt
+│   └── ...
+├── 01_Practice_Deep_Dives/           # Mid-course algorithms, data structures & benchmarks
+│   ├── practice_aug14_number_manipulation.c
+│   ├── practice_aug14_number_manipulation_output.txt
+│   └── ...
+├── 02_100_Days_Of_Code/              # Official 100 Days Challenge (Days 1 to 100)
+│   ├── Day_001/                      # Day 1: Q1, Q2 (.c source & execution output .txt)
+│   ├── Day_002/                      # Day 2: Q3, Q4 (.c source & execution output .txt)
+│   ├── ...
+│   └── Day_100/                      # Day 100: Q150 (.c source & execution output .txt)
+├── outputs/                          # Central repository of all execution output logs (.txt)
+├── ALL_SOLUTIONS_AND_OUTPUTS.md      # Complete master archive of all codes and outputs arranged
+├── OUTPUTS.md                        # Master terminal output execution logs
+└── README.md                         # Main repository guide
+```
 
 ---
 
@@ -36,26 +63,10 @@ Welcome to my **100 Days of Code** journey in C Programming! This repository con
 
 ---
 
-## 📂 Repository Structure
+## 📖 Quick Links to Complete Documentation
 
-All `.c` files follow consistent naming conventions:
-- **Core Challenge:** `day<Day>question<QuestionId>.c`
-- **Preparation Modules:** `prep_day<N>_<topic>.c`
-- **Practice Enhancements:** `practice_<month><day>_<topic>.c`
-
-```text
-├── prep_day1_hello_world.c
-├── prep_day2_data_types.c
-...
-├── day1question1.c
-├── day1question2.c
-├── day2question1.c
-...
-├── day100question150.c
-├── practice_aug14_number_manipulation.c
-...
-└── practice_sep03_bitwise_tricks.c
-```
+- 📜 [Master Solutions & Execution Outputs (ALL_SOLUTIONS_AND_OUTPUTS.md)](ALL_SOLUTIONS_AND_OUTPUTS.md) — View every single question, source code, and verified output in order.
+- 🖥️ [Compilation Outputs Log (OUTPUTS.md)](OUTPUTS.md) — Raw terminal execution logs.
 
 ---
 
@@ -65,11 +76,11 @@ To compile and run any daily solution using GCC:
 
 ```bash
 # Example: Day 100 Question 150
-gcc -Wall -O2 day100question150.c -o solution
+gcc -Wall -O2 02_100_Days_Of_Code/Day_100/day100question150.c -o solution
 ./solution
 
 # Example: Preparation Module
-gcc -Wall -O2 prep_day1_hello_world.c -o prep1
+gcc -Wall -O2 00_Preparation_Aug01_to_Aug09/prep_day1_hello_world.c -o prep1
 ./prep1
 ```
 

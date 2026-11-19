@@ -1,0 +1,2 @@
+﻿Enter name, id, and joining date (dd mm yyyy):
+Name: Raj | ID: 11 | Joining Date: 12/05/2020

@@ -1,0 +1,6 @@
+﻿enter principal amount
+enter rate of interest
+enter time in years
+simple interest is 0.00
+total amount is 0.00
+compound_interest is 0.00

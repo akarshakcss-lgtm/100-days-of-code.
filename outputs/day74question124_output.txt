@@ -1,0 +1,2 @@
+﻿Enter source and destination filenames:
+Error opening source file

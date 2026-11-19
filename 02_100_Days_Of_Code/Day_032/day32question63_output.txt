@@ -1,0 +1,5 @@
+﻿Enter size of first array:
+Enter first array elements:
+Enter size of second array:
+Enter second array elements:
+1 2 3 4 5

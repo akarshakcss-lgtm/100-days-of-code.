@@ -1,0 +1,4 @@
+﻿Enter size:
+Enter elements:
+Enter index and value:
+1 2 3 4 5

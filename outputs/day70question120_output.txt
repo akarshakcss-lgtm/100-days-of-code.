@@ -1,0 +1,2 @@
+﻿Enter a string:
+I Am Trying To Build Logic.

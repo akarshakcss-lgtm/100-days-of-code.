@@ -1,0 +1,2 @@
+﻿enter a number
+1 2 3 6

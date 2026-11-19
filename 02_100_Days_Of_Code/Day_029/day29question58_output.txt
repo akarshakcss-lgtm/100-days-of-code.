@@ -1,0 +1,3 @@
+﻿Enter number of elements:
+Enter elements:
+Max = 9, Min = 1

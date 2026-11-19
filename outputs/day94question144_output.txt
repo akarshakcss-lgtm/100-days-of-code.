@@ -1,0 +1,2 @@
+﻿Enter name, roll_no, marks:
+Name: Neha | Roll: 104 | Marks: 92

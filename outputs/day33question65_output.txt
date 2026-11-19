@@ -1,0 +1,4 @@
+﻿Enter size:
+Enter sorted elements:
+Enter key:
+Found at index 2

@@ -1,0 +1,4 @@
+﻿Enter size:
+Enter elements:
+Enter x:
+-1

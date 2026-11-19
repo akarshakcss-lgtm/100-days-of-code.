@@ -1,0 +1,2 @@
+﻿Enter operation and two numbers (e.g. ADD 10 20):
+30

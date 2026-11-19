@@ -1,0 +1,5 @@
+﻿Enter rows and cols:
+Enter elements:
+1 4
+2 5
+3 6

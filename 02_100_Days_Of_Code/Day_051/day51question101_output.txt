@@ -1,0 +1,4 @@
+﻿Enter array size:
+Enter sorted elements:
+Enter target:
+3,4

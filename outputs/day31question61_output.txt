@@ -1,0 +1,4 @@
+﻿Enter number of elements:
+Enter elements:
+Enter search element:
+Found at index 2

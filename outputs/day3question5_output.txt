@@ -1,0 +1,2 @@
+﻿enter the temperature in celsius
+the temperature in fahrenheit 32.00

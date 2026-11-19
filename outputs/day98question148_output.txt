@@ -1,0 +1,3 @@
+﻿Enter Student 1 (name roll marks):
+Enter Student 2 (name roll marks):
+Same

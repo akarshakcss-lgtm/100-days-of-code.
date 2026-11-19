@@ -1,0 +1,4 @@
+﻿Enter a number
+sum = 153
+original = 153
+It is armstrong number

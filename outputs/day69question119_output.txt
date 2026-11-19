@@ -1,0 +1,3 @@
+﻿Enter size:
+Enter elements:
+3

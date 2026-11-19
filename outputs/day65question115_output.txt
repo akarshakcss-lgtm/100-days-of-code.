@@ -1,0 +1,3 @@
+﻿Enter string s:
+Enter string t:
+Anagram

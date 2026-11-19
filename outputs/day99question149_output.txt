@@ -1,0 +1,2 @@
+﻿Enter name, roll, marks:
+Name: Tina | Roll: 105 | Marks: 88

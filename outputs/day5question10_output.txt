@@ -1,0 +1,3 @@
+﻿enter total seconds
+seconds convert into hours:minutes:seconds is = 
+11665616

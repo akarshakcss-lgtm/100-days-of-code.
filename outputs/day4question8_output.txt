@@ -1,0 +1,2 @@
+﻿enter a number
+sum of the first n natural number is : 15

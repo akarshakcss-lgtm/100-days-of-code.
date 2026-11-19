@@ -1,0 +1,4 @@
+﻿Enter size:
+Enter elements:
+Enter k:
+4 5 1 2 3

@@ -1,0 +1,3 @@
+﻿Enter rows and cols:
+Enter elements:
+False

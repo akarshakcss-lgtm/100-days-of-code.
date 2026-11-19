@@ -1,0 +1,2 @@
+﻿Enter two numbers:
+Sum = 7

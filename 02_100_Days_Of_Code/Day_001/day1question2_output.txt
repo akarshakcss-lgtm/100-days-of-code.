@@ -1,0 +1,2 @@
+﻿Enter two numbers:
+Sum=12, Diff=8, Product=20, Quotient=5

@@ -1,0 +1,4 @@
+﻿enter length of a rectangle
+enter the breath of the rectangle
+perimeter = 30
+area = 50

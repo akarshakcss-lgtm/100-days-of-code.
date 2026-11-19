@@ -1,0 +1,2 @@
+﻿Enter binary number: 
+1's complement is 0101

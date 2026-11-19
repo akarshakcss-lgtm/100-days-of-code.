@@ -1,0 +1,2 @@
+﻿enter a number
+7 is odd

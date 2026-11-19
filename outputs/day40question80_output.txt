@@ -1,0 +1,6 @@
+﻿Enter dimensions of first matrix:
+Enter first matrix:
+Enter dimensions of second matrix:
+Enter second matrix:
+1 2
+3 4

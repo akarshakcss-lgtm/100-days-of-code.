@@ -1,0 +1,3 @@
+﻿Enter number of elements:
+Enter elements:
+5 4 3 2 1

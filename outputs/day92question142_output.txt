@@ -1,0 +1,8 @@
+﻿Enter details for 5 students (Name Roll Marks):
+
+--- Student Details ---
+Name: Asha       | Roll: 101   | Marks: 90 
+Name: Ravi       | Roll: 102   | Marks: 85 
+Name: Sita       | Roll: 103   | Marks: 95 
+Name: Aman       | Roll: 104   | Marks: 88 
+Name: Neha       | Roll: 105   | Marks: 92

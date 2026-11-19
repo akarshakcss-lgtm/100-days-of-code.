@@ -1,0 +1,3 @@
+﻿Enter two numbers: After swapping:
+a = 20
+b = 10

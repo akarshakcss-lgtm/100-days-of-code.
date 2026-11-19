@@ -1,0 +1,2 @@
+﻿Enter a number:
+It is a strong number

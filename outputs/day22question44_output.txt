@@ -1,0 +1,2 @@
+﻿Enter number of terms:
+Approximate sum: 2.6

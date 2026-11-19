@@ -1,0 +1,4 @@
+﻿enter first side of triangle
+enter second side of triangle
+enter third side of triangle
+Scalene tiangle

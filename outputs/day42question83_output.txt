@@ -1,0 +1,2 @@
+﻿Enter a string:
+Vowels=2, Consonants=3

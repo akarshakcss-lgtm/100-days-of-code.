@@ -1,0 +1,4 @@
+﻿Enter size:
+Enter elements:
+Enter index to delete:
+1 2 4 5

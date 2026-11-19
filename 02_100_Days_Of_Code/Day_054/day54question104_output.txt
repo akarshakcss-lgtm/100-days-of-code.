@@ -1,0 +1,2 @@
+﻿Enter positive integer n:
+6

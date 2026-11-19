@@ -1,0 +1,3 @@
+﻿Enter number of elements:
+Enter elements:
+Positive = 2, Negative = 2, Zero = 1

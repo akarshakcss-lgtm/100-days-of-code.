@@ -1,0 +1,1 @@
+﻿Enter traffic light (RED/YELLOW/GREEN): Go

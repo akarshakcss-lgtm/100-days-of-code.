@@ -1,0 +1,4 @@
+﻿Enter size:
+Enter sorted elements:
+Enter value to insert:
+10 20 25 30 40 50

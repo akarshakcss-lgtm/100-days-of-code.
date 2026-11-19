@@ -1,0 +1,3 @@
+﻿Enter a string:
+Enter character to count:
+2
